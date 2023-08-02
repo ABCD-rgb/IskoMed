@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+#Wed Jun 07 19:00:20 SGT 2023
+=======
+#Wed Jun 07 19:12:28 SGT 2023
+>>>>>>> 8c8138c9b582e14ebd0bbec35e3088d2a4ad2dbc
+path.4=2/classes.dex
+path.3=1/classes.dex
+path.2=0/classes.dex
+path.1=0/classes.dex
+path.5=classes2.dex
+path.0=classes.dex
+<<<<<<< HEAD
+base.4=C\:\\Users\\R7 Admin\\OneDrive\\Desktop\\CMSC 23\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.3=C\:\\Users\\R7 Admin\\OneDrive\\Desktop\\CMSC 23\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=C\:\\Users\\R7 Admin\\OneDrive\\Desktop\\CMSC 23\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\R7 Admin\\OneDrive\\Desktop\\CMSC 23\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\R7 Admin\\OneDrive\\Desktop\\CMSC 23\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+=======
+base.4=C\:\\Users\\Arawela\\Desktop\\CMSC-23\\finalproject\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.3=C\:\\Users\\Arawela\\Desktop\\CMSC-23\\finalproject\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=C\:\\Users\\Arawela\\Desktop\\CMSC-23\\finalproject\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\Arawela\\Desktop\\CMSC-23\\finalproject\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\Arawela\\Desktop\\CMSC-23\\finalproject\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+>>>>>>> 8c8138c9b582e14ebd0bbec35e3088d2a4ad2dbc
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+<<<<<<< HEAD
+base.5=C\:\\Users\\R7 Admin\\OneDrive\\Desktop\\CMSC 23\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+=======
+base.5=C\:\\Users\\Arawela\\Desktop\\CMSC-23\\finalproject\\project-delmo_fuentes_rolle_sabile\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+>>>>>>> 8c8138c9b582e14ebd0bbec35e3088d2a4ad2dbc

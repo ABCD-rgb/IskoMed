@@ -1,0 +1,23 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.health_monitor.app-mergeDebugResources-27:/values-port/values-port.xml",
+            "map": [
+                {
+<<<<<<< HEAD
+                    "source": "C:\\Users\\R7 Admin\\.gradle\\caches\\transforms-3\\6c400c0637cb2fea81e72115a5ff1a4e\\transformed\\appcompat-1.4.2\\res\\values-port\\values-port.xml",
+=======
+                    "source": "C:\\Users\\Arawela\\.gradle\\caches\\transforms-3\\6c400c0637cb2fea81e72115a5ff1a4e\\transformed\\appcompat-1.4.2\\res\\values-port\\values-port.xml",
+>>>>>>> 8c8138c9b582e14ebd0bbec35e3088d2a4ad2dbc
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

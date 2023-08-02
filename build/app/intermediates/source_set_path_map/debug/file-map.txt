@@ -1,0 +1,77 @@
+<<<<<<< HEAD
+com.example.health_monitor.app-jetified-window-java-1.0.0-beta04-0 C:\Users\R7 Admin\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.health_monitor.app-jetified-play-services-base-18.0.1-1 C:\Users\R7 Admin\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\res
+com.example.health_monitor.app-lifecycle-viewmodel-2.3.1-2 C:\Users\R7 Admin\.gradle\caches\transforms-3\114d02d556db7f0c7636ae1c78b77699\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.health_monitor.app-fragment-1.3.6-3 C:\Users\R7 Admin\.gradle\caches\transforms-3\25a0b970139aa02c768087660f5883a2\transformed\fragment-1.3.6\res
+com.example.health_monitor.app-browser-1.4.0-4 C:\Users\R7 Admin\.gradle\caches\transforms-3\392643a040d0a7ef9b2ed4537c4719d5\transformed\browser-1.4.0\res
+com.example.health_monitor.app-jetified-savedstate-1.1.0-5 C:\Users\R7 Admin\.gradle\caches\transforms-3\445f1a6c7ed90c8b1d8b0054874eb819\transformed\jetified-savedstate-1.1.0\res
+com.example.health_monitor.app-jetified-core-ktx-1.5.0-6 C:\Users\R7 Admin\.gradle\caches\transforms-3\56bbcae4ea3c9e12390b594b1ca6236b\transformed\jetified-core-ktx-1.5.0\res
+com.example.health_monitor.app-coordinatorlayout-1.0.0-7 C:\Users\R7 Admin\.gradle\caches\transforms-3\658c795313ef4882e96b91cbdc33f336\transformed\coordinatorlayout-1.0.0\res
+com.example.health_monitor.app-appcompat-1.4.2-8 C:\Users\R7 Admin\.gradle\caches\transforms-3\6c400c0637cb2fea81e72115a5ff1a4e\transformed\appcompat-1.4.2\res
+com.example.health_monitor.app-core-1.7.0-9 C:\Users\R7 Admin\.gradle\caches\transforms-3\74ce2690f7529852b8321388684fcbb6\transformed\core-1.7.0\res
+com.example.health_monitor.app-jetified-annotation-experimental-1.1.0-10 C:\Users\R7 Admin\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.health_monitor.app-jetified-emoji2-views-helper-1.0.0-11 C:\Users\R7 Admin\.gradle\caches\transforms-3\9ab2ac7dc97c364d4ec3c6254d500457\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.example.health_monitor.app-jetified-appcompat-resources-1.4.2-12 C:\Users\R7 Admin\.gradle\caches\transforms-3\9db0c0a9f4720bfec9548843d6d7712f\transformed\jetified-appcompat-resources-1.4.2\res
+com.example.health_monitor.app-jetified-zxing-android-embedded-4.3.0-13 C:\Users\R7 Admin\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\res
+com.example.health_monitor.app-jetified-firebase-common-20.3.2-14 C:\Users\R7 Admin\.gradle\caches\transforms-3\ac7b423c18e0e9c28c2a8c784d1125eb\transformed\jetified-firebase-common-20.3.2\res
+com.example.health_monitor.app-jetified-emoji2-1.0.0-15 C:\Users\R7 Admin\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\res
+com.example.health_monitor.app-jetified-startup-runtime-1.0.0-16 C:\Users\R7 Admin\.gradle\caches\transforms-3\c72b3acc999ec5e845f08a72394155ab\transformed\jetified-startup-runtime-1.0.0\res
+com.example.health_monitor.app-lifecycle-runtime-2.4.0-17 C:\Users\R7 Admin\.gradle\caches\transforms-3\c94e7f48845ec704722d973e7290018c\transformed\lifecycle-runtime-2.4.0\res
+com.example.health_monitor.app-jetified-lifecycle-process-2.4.0-18 C:\Users\R7 Admin\.gradle\caches\transforms-3\da12c36cbc191d2ddc924c1ef309570f\transformed\jetified-lifecycle-process-2.4.0\res
+com.example.health_monitor.app-jetified-window-1.0.0-beta04-19 C:\Users\R7 Admin\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.health_monitor.app-media-1.0.0-20 C:\Users\R7 Admin\.gradle\caches\transforms-3\f057e7418cf3ed9a7aa575bdc69ad668\transformed\media-1.0.0\res
+com.example.health_monitor.app-jetified-play-services-basement-18.1.0-21 C:\Users\R7 Admin\.gradle\caches\transforms-3\f46b9773282b7a3d38863a46e0e0b5d1\transformed\jetified-play-services-basement-18.1.0\res
+com.example.health_monitor.app-debug-22 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\android\app\src\debug\res
+com.example.health_monitor.app-main-23 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\android\app\src\main\res
+com.example.health_monitor.app-pngs-24 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\app\generated\res\pngs\debug
+com.example.health_monitor.app-resValues-25 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\app\generated\res\resValues\debug
+com.example.health_monitor.app-rs-26 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\app\generated\res\rs\debug
+com.example.health_monitor.app-mergeDebugResources-27 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.health_monitor.app-mergeDebugResources-28 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.health_monitor.app-merged_res-29 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\app\intermediates\merged_res\debug
+com.example.health_monitor.app-packaged_res-30 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-31 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\firebase_auth\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-32 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\firebase_core\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-33 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\gallery_saver\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-34 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\path_provider_android\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-35 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\permission_handler_android\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-36 C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\build\qr_code_scanner\intermediates\packaged_res\debug
+=======
+com.example.health_monitor.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Arawela\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.health_monitor.app-jetified-play-services-base-18.0.1-1 C:\Users\Arawela\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\res
+com.example.health_monitor.app-lifecycle-viewmodel-2.3.1-2 C:\Users\Arawela\.gradle\caches\transforms-3\114d02d556db7f0c7636ae1c78b77699\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.health_monitor.app-fragment-1.3.6-3 C:\Users\Arawela\.gradle\caches\transforms-3\25a0b970139aa02c768087660f5883a2\transformed\fragment-1.3.6\res
+com.example.health_monitor.app-browser-1.4.0-4 C:\Users\Arawela\.gradle\caches\transforms-3\392643a040d0a7ef9b2ed4537c4719d5\transformed\browser-1.4.0\res
+com.example.health_monitor.app-jetified-savedstate-1.1.0-5 C:\Users\Arawela\.gradle\caches\transforms-3\445f1a6c7ed90c8b1d8b0054874eb819\transformed\jetified-savedstate-1.1.0\res
+com.example.health_monitor.app-jetified-core-ktx-1.5.0-6 C:\Users\Arawela\.gradle\caches\transforms-3\56bbcae4ea3c9e12390b594b1ca6236b\transformed\jetified-core-ktx-1.5.0\res
+com.example.health_monitor.app-coordinatorlayout-1.0.0-7 C:\Users\Arawela\.gradle\caches\transforms-3\658c795313ef4882e96b91cbdc33f336\transformed\coordinatorlayout-1.0.0\res
+com.example.health_monitor.app-appcompat-1.4.2-8 C:\Users\Arawela\.gradle\caches\transforms-3\6c400c0637cb2fea81e72115a5ff1a4e\transformed\appcompat-1.4.2\res
+com.example.health_monitor.app-core-1.7.0-9 C:\Users\Arawela\.gradle\caches\transforms-3\74ce2690f7529852b8321388684fcbb6\transformed\core-1.7.0\res
+com.example.health_monitor.app-jetified-annotation-experimental-1.1.0-10 C:\Users\Arawela\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.health_monitor.app-jetified-emoji2-views-helper-1.0.0-11 C:\Users\Arawela\.gradle\caches\transforms-3\9ab2ac7dc97c364d4ec3c6254d500457\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.example.health_monitor.app-jetified-appcompat-resources-1.4.2-12 C:\Users\Arawela\.gradle\caches\transforms-3\9db0c0a9f4720bfec9548843d6d7712f\transformed\jetified-appcompat-resources-1.4.2\res
+com.example.health_monitor.app-jetified-zxing-android-embedded-4.3.0-13 C:\Users\Arawela\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\res
+com.example.health_monitor.app-jetified-firebase-common-20.3.2-14 C:\Users\Arawela\.gradle\caches\transforms-3\ac7b423c18e0e9c28c2a8c784d1125eb\transformed\jetified-firebase-common-20.3.2\res
+com.example.health_monitor.app-jetified-emoji2-1.0.0-15 C:\Users\Arawela\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\res
+com.example.health_monitor.app-jetified-startup-runtime-1.0.0-16 C:\Users\Arawela\.gradle\caches\transforms-3\c72b3acc999ec5e845f08a72394155ab\transformed\jetified-startup-runtime-1.0.0\res
+com.example.health_monitor.app-lifecycle-runtime-2.4.0-17 C:\Users\Arawela\.gradle\caches\transforms-3\c94e7f48845ec704722d973e7290018c\transformed\lifecycle-runtime-2.4.0\res
+com.example.health_monitor.app-jetified-lifecycle-process-2.4.0-18 C:\Users\Arawela\.gradle\caches\transforms-3\da12c36cbc191d2ddc924c1ef309570f\transformed\jetified-lifecycle-process-2.4.0\res
+com.example.health_monitor.app-jetified-window-1.0.0-beta04-19 C:\Users\Arawela\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.health_monitor.app-media-1.0.0-20 C:\Users\Arawela\.gradle\caches\transforms-3\f057e7418cf3ed9a7aa575bdc69ad668\transformed\media-1.0.0\res
+com.example.health_monitor.app-jetified-play-services-basement-18.1.0-21 C:\Users\Arawela\.gradle\caches\transforms-3\f46b9773282b7a3d38863a46e0e0b5d1\transformed\jetified-play-services-basement-18.1.0\res
+com.example.health_monitor.app-debug-22 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\android\app\src\debug\res
+com.example.health_monitor.app-main-23 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\android\app\src\main\res
+com.example.health_monitor.app-pngs-24 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\app\generated\res\pngs\debug
+com.example.health_monitor.app-resValues-25 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\app\generated\res\resValues\debug
+com.example.health_monitor.app-rs-26 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\app\generated\res\rs\debug
+com.example.health_monitor.app-mergeDebugResources-27 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.health_monitor.app-mergeDebugResources-28 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.health_monitor.app-merged_res-29 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\app\intermediates\merged_res\debug
+com.example.health_monitor.app-packaged_res-30 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-31 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\firebase_auth\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-32 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\firebase_core\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-33 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\gallery_saver\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-34 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\path_provider_android\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-35 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\permission_handler_android\intermediates\packaged_res\debug
+com.example.health_monitor.app-packaged_res-36 C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\build\qr_code_scanner\intermediates\packaged_res\debug
+>>>>>>> 8c8138c9b582e14ebd0bbec35e3088d2a4ad2dbc

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\android\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\R7 Admin\OneDrive\Desktop\CMSC 23\project-delmo_fuentes_rolle_sabile\android\app\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\android\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arawela\Desktop\CMSC-23\finalproject\project-delmo_fuentes_rolle_sabile\android\app\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> 8c8138c9b582e14ebd0bbec35e3088d2a4ad2dbc
